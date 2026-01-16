@@ -43,7 +43,3 @@ Users can browse news by categories such as **Technology, Science, Business, Hea
 Due to **NewsAPI free plan restrictions**, live API requests work on **localhost** only.  
 The GitHub Pages demo uses sample data to prevent runtime errors.
 
----
-
-npm install
-npm run dev
