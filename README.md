@@ -1,16 +1,22 @@
-# React + Vite
+React News App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NewsMag is a React-based news application built with Vite. It fetches the latest news from NewsAPI and allows users to browse news by category like Technology, Science, Business, Health, Sports, and Entertainment.
 
-Currently, two official plugins are available:
+Features:
+Fetches real-time news from NewsAPI.
+Supports multiple categories: Technology, Science, Business, Health, Sports, Entertainment.
+Responsive UI built with Bootstrap.
+Component-based React architecture for easy maintenance.
+Fast development using Vite with hot module replacement (HMR).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Languages & Technologies:
+JavaScript (ES6+) – Core programming language
+React – Frontend library for building UI components
+Vite – Modern build tool and dev server
+HTML5 – Markup for structure
+CSS3 / Bootstrap 5 – Styling and responsive design
+NewsAPI – API for fetching news content
+Git & GitHub – Version control and code hosting
 
-## React Compiler
+Demo:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
