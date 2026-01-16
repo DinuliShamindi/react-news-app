@@ -1,26 +1,24 @@
-React News App
+NewsMag – React News Application
 
-NewsMag is a React-based news application built with Vite. It fetches the latest news from NewsAPI and allows users to browse news by category like Technology, Science, Business, Health, Sports, and Entertainment.
-
----
-
-Features:
-Fetches real-time news from NewsAPI.
-Supports multiple categories: Technology, Science, Business, Health, Sports, Entertainment.
-Responsive UI built with Bootstrap.
-Component-based React architecture for easy maintenance.
-Fast development using Vite with hot module replacement (HMR).
+NewsMag is a modern news application built with React and Vite, allowing users to stay updated with the latest news from around the world. Users can browse news by categories such as Technology, Science, Business, Health, Sports, and Entertainment.
 
 ---
 
-Languages & Technologies:
+Features
+Real-time news: Fetches the latest news using NewsAPI
+Multiple categories: Explore news in Technology, Science, Business, Health, Sports, and Entertainment.
+Responsive design: Built with Bootstrap 5, works seamlessly on mobile and desktop.
+Component-based architecture: Easy to maintain and scale with React components.
+Fast development: Powered by Vite with Hot Module Replacement (HMR) for a smooth developer experience.
+
+---
+
+Technologies Used
 JavaScript (ES6+) – Core programming language
 React – Frontend library for building UI components
-Vite – Modern build tool and dev server
-HTML5 – Markup for structure
-CSS3 / Bootstrap 5 – Styling and responsive design
-NewsAPI – API for fetching news content
+Vite – Modern build tool and development server
+HTML5 & CSS3 / Bootstrap 5 – Markup and responsive design
+NewsAPI – Fetch real-time news content
 Git & GitHub – Version control and code hosting
 
-Demo:
-
+Demo
