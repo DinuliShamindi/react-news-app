@@ -21,4 +21,8 @@ HTML5 & CSS3 / Bootstrap 5 – Markup and responsive design
 NewsAPI – Fetch real-time news content
 Git & GitHub – Version control and code hosting
 
-Demo
+Demo Pictures
+images/SS1.png
+images/SS2.png
+images/SS3.png
+images/SS4.png
