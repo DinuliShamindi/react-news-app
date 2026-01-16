@@ -26,15 +26,11 @@ Users can browse news by categories such as **Technology, Science, Business, Hea
 
 ## 📸 Demo Screenshots
 
-<p align="center">
   <img src="SS1.png" width="300" />
   <img src="SS2.png" width="300" />
-</p>
-
-<p align="center">
   <img src="SS3.png" width="300" />
   <img src="SS4.png" width="300" />
-</p>
+
 
 ---
 
